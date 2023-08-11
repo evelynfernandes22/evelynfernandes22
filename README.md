@@ -5,7 +5,8 @@
 
 - 💬 Sobre mim: **Profissional dedicada, curiosa e focada.**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Conecte-se comigo também pelo LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/evelyn-fernandes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/evelyn-fernandes1" height="30" width="40" /></a>
 </p>
