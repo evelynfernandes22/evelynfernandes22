@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, me chamo Evelyn</h1>
 <h3 align="center">Graduanda em Análise e Desenvolvimento de Sistemas</h3>
 
-- 🌱 Atualmente estou imersa nos estudos de: **Java, Spring Boot, RESTApi, e treinando lógica de programação,**
+- 🌱 Atualmente estou imersa nos estudos de: **Java, Spring Boot, RESTApi, e treinando lógica de programação.**
 
 - 💬 Sobre mim: **Profissional dedicada, curiosa e focada.**
 
