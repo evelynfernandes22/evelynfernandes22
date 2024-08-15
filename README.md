@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, me chamo Evelyn</h1>
-<h3 align="center">Graduanda em Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Graduada em Análise e Desenvolvimento de Sistemas e Psicologia</h3>
 
-- 💬 Sou da área de Gestão de Pessoas e entusiasta na área de tecnologia, especialmente back-end: **Java, Spring Boot e RESTApi**
+- 💬 Sou da área de Gestão de Pessoas e entusiasta na área de tecnologia **
+- Este repositório foi criado para exercitar as habilidades aprendidas.
 
 
 <h3 align="left">Conecte-se comigo também pelo LinkedIn:</h3>
